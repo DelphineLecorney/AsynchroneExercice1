@@ -16,7 +16,7 @@
 
 <button>create a button when clicked the json's content is loaded with a fetch('your-json-file.json'), then dynamically generate a ul list containing each rule in a li.</button>
 
-### 🔭 Project to be completed in 2 days (16-17 May 2023)
+### 🔭 Project to be completed in 1 day (16 May 2023)
 
 [References](https://developer.mozilla.org/fr/docs/Web/API/Fetch_API/Using_Fetch "References")
 
